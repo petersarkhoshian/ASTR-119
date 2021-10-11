@@ -17,7 +17,7 @@ y = x.copy()
 print(y)
 
 #how many elements equal a given value
-print("The value 0.0 appears ",y.count(0.0) " time(s).")
+print("The value 0.0 appears ",y.count(0.0), " time(s).")
 
 #print the index with value 3.7
 print(y.index(3.7))
